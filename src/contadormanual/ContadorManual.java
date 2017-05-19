@@ -6,7 +6,7 @@ package contadormanual;
 
 /**
  *
- * @author Jorge
+ * @author angel
  */
 public class ContadorManual {
     private int valor;
